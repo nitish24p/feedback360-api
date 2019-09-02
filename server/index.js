@@ -8,7 +8,7 @@ const debug = require('debug')('remembr');
 
 const http = require('http');
 const Logger = require('./logger');
-
+const loadFeedbacksCb = require('./routes').loadFeedbacksCb;
 /**
  * Get port from environment and store in Express.
  */
@@ -25,11 +25,14 @@ const server = http.createServer(app);
 /**
  * Listen on provided port, on all network interfaces.
  */
-server.listen(port, function() {
-  console.log('Express server listening on port ' + server.address().port);
+loadFeedbacksCb().then(feedbacks => {
+  console.log('loaded Fb in memory');
+  server.listen(port, function() {
+    console.log('Express server listening on port ' + server.address().port);
+  });
+  server.on('error', onError);
+  server.on('listening', onListening);
 });
-server.on('error', onError);
-server.on('listening', onListening);
 
 /*
  * Normalize a port into a number, string, or false.

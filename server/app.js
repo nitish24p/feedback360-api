@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
-//const router = require('../routes');
+const router = require('./routes');
 
 const app = express();
 
@@ -22,7 +22,7 @@ app.use(function(req, res, next) {
   next();
 });
 
-//app.use('/', router);
+app.use('/', router.router);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
