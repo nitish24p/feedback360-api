@@ -34,7 +34,7 @@ The team {GENDER} has created is a good example for others to follow.
 {GENDER} always tries {GENDER_PRONOUN} best to finish {GENDER_PRONOUN} tasks, even though these duties do not belong to him.
 {NAME} unites individuals together in order to meet deadlines and efficiently perform their duties.
 {GENDER} can be counted on to carry out assignments with careful follow-through and follow-up.
-{GENDER} helps form alliances between {GENDER_PRONOUN} staff members and foster a team-first environment.
+{NAME} helps form alliances between {GENDER_PRONOUN} staff members and foster a team-first environment.
 {GENDER} excels at any project he is involved due to {GENDER_PRONOUN} ability to form effective teams.
 {NAME} can bring disparate groups together even in the most difficult situations.
 {GENDER} will do whatever is necessary to get the job done, even taking on extra tasks that are not {GENDER_PRONOUN} own.
