@@ -8,13 +8,13 @@ const fs = require('fs');
 const ROOT = process.cwd();
 
 const GENDER_PRONOUN_MAP = {
-  Male: 'His',
-  Female: 'Her'
+  male: 'His',
+  female: 'Her'
 };
 
 const GENDER_FIST_PERSON_MAP = {
-  Male: 'He',
-  Female: 'She'
+  male: 'He',
+  female: 'She'
 };
 
 function loadFeedbacksCb() {
@@ -49,8 +49,8 @@ function loadFeedbacksCb() {
 }
 
 function pickFeedbackFromList(name, gender) {
-  const genderPronoun = GENDER_PRONOUN_MAP[gender];
-  const genderFirstPerson = GENDER_FIST_PERSON_MAP[gender];
+  const genderPronoun = GENDER_PRONOUN_MAP[gender.toLowerCase()];
+  const genderFirstPerson = GENDER_FIST_PERSON_MAP[gender.toLowerCase()];
   const response = {};
   Object.keys(feedback).forEach(category => {
     let randomCount;
