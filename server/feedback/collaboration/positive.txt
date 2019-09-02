@@ -23,7 +23,7 @@ The team {GENDER} has created is a good example for others to follow.
 {GENDER} ensures coworkers coordinate to meet deadlines and work effectively as a team.
 {GENDER} encourages people to work together towards a common goal.
 {NAME} gives of himself to make sure the job is well done.
-{GENDER} offers assistance willingly.
+{NAME} offers assistance willingly.
 {GENDER} makes a positive contribution to morale.
 {GENDER} accepts constructive criticism positively.
 {NAME} shows sensitivity and consideration to other people’s feelings.
