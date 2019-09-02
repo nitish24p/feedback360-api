@@ -1,0 +1,33 @@
+{GENDER} is not a willing team player and prefers to work individually.
+{NAME} is unwilling to assist coworkers, even when asked.
+{NAME} is professional in {GENDER_NOUN} work but is unwilling to give advice to others.
+{GENDER} was unwilling to give help when requested to.
+{GENDER} does not have the necessary skills to complete the work and is unwilling to find someone who does.
+{GENDER} has not joined the group even after being required to.
+{NAME} doesn’t communicate with other employees nor help when asked.
+{GENDER} was unwilling to listen to or take on board the wealth of advice given to him.
+Despite being a team member, {GENDER} doesn’t complete {GENDER_NOUN} allocated tasks.
+Despite numerous invitations to join the team, {GENDER} prefers to work alone.
+{GENDER} does not permit {GENDER_NOUN} staff to assist other departments.
+{GENDER} does not assist others when they need it.
+{GENDER} does not see the workplace as a team environment and prefers to go it alone.
+{GENDER} does not provide a team-centered support environment.
+{GENDER} cannot commit {GENDER_NOUN} team towards the organization’s goals.
+{NAME} shows himself to be a person who does not want to work with others.
+{GENDER} does not share key information with colleagues because {GENDER} fears {GENDER} will be marginalized.
+{GENDER} is known to be hot-tempered with {GENDER_NOUN} colleagues.
+{GENDER} is the person least likely to offer assistance when needed.
+{GENDER} demonstrates a desire to avoid working with others.
+{NAME} is very good when performing individual tasks but is weaker when required to work in a team or with coworkers.
+{GENDER} easily takes on new tasks well but fails to communicate with and train others who may also be required to take them on.
+{NAME} consistently fails to be an effective team player. {GENDER} needs to improve on {GENDER_NOUN} teamwork over the coming months.
+{GENDER} is cautious and afraid of confrontation which leads to him being averse to taking risks.
+{GENDER} is easily upset when not offered assistance when he feels he needs it. {GENDER} does not help others.
+{GENDER} is too focused on finding new ways to accomplish things rather than cooperating with others in a process which is already well tested and defined.
+{NAME} tends to complain about a lack of resources and personnel instead of making do with what he has
+{GENDER} tends to be distant and unapproachable. {GENDER_NOUN} colleagues hesitate to ask him for assistance due to {GENDER_NOUN} standoffishness.
+{GENDER} needs to be aware of when {GENDER} should offer assistance to others at work.
+{NAME} displays an uncooperative attitude.
+{GENDER} is unwilling to share {GENDER_NOUN} work or team responsibilities with others.
+{GENDER} is unwilling to foster good relationships with other teams and is not open-minded.
+{GENDER} is cautious and prefers to avoid confrontation. {GENDER} is unlikely to openly risk conflict this by helping someone.
