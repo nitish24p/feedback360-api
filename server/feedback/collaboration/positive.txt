@@ -1,6 +1,6 @@
-{NAME} is the group leader and allocates appropriate tasks to his teammates.
+{NAME} is the group leader and allocates appropriate tasks to {GENDER_PRONOUN} teammates.
 {GENDER} has created a team that works collaboratively to finish the project much faster.
-{GENDER} helps coworkers with their tasks even if they are outside his direct responsibility.
+{GENDER} helps coworkers with their tasks even if they are outside {GENDER_PRONOUN} direct responsibility.
 {NAME} always assists coworkers that are having difficulty with their tasks.
 {GENDER} takes care that every team member’s allocated task is the best one for them.
 {GENDER} has a wide skill set and although he has some weaknesses, he always seeks help from appropriate colleagues when needed.
@@ -12,10 +12,10 @@ The team {GENDER} has created is a good example for others to follow.
 {NAME} tackles all tasks he is assigned enthusiastically and also takes on additional tasks.
 {NAME} promotes cooperation well to ensure staff work as a team to meet deadlines.
 {GENDER} encourages people to work together to achieve a common goal.
-{GENDER} puts getting the job done ahead of his own interests.
+{GENDER} puts getting the job done ahead of {GENDER_PRONOUN} own interests.
 {NAME} works well with coworkers, staff, managers, and members of other teams.
 {GENDER} understands clearly that to complete the projects is a team effort. {NAME} is always willing to help others when needed.
-{GENDER} connects his staff members together well to create a team first environment.
+{GENDER} connects {GENDER_PRONOUN} staff members together well to create a team first environment.
 {GENDER} promotes a team-centered environment.
 {GENDER} is a proven team player.
 {NAME} is an asset who can effectively work with other teams and departments.
@@ -29,12 +29,12 @@ The team {GENDER} has created is a good example for others to follow.
 {NAME} shows sensitivity and consideration to other people’s feelings.
 {GENDER} creates a positive and inclusive work environment.
 {GENDER} is a strong team player; who is humble and says that projects are the achievement of the whole team.
-{NAME} builds solidarity between his team members to enhance team spirit.
+{NAME} builds solidarity between {GENDER_PRONOUN} team members to enhance team spirit.
 {GENDER} one of is the top staff members who cooperates well with other teams and divisions.
-{GENDER} always tries his best to finish his tasks, even these duties do not belong to him.
+{GENDER} always tries {GENDER_PRONOUN} best to finish {GENDER_PRONOUN} tasks, even though these duties do not belong to him.
 {NAME} unites individuals together in order to meet deadlines and efficiently perform their duties.
 {GENDER} can be counted on to carry out assignments with careful follow-through and follow-up.
-{GENDER} helps form alliances between his staff members and foster a team-first environment.
-{GENDER} excels at any project he is involved due to his ability to form effective teams.
+{GENDER} helps form alliances between {GENDER_PRONOUN} staff members and foster a team-first environment.
+{GENDER} excels at any project he is involved due to {GENDER_PRONOUN} ability to form effective teams.
 {NAME} can bring disparate groups together even in the most difficult situations.
-{GENDER} will do whatever is necessary to get the job done, even taking on extra tasks that are not his own.
+{GENDER} will do whatever is necessary to get the job done, even taking on extra tasks that are not {GENDER_PRONOUN} own.
